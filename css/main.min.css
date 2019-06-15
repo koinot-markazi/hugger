@@ -2843,7 +2843,7 @@ html {
 }
 
 .landing-page {
-    background-image: url(/img/kids.jpg);
+    background-image: url(../img/kids.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center;
